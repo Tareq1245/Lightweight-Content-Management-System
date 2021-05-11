@@ -1,0 +1,136 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    padding-top: 60px;
+}
+
+body#profile img#profile-image{
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */  
+}
+
+
+.huge{
+    font-size: 30px;
+    color: white;
+    font-family: arial;
+}
+.huge1{
+    color: white;
+    font-family: arial;
+}
+
+.tag-boxes .panel-primary{
+    border: 1px solid skyblue;
+    background: #00bfff;
+}
+
+.tag-boxes .panel-footer{
+    color: #5993a6;
+    font-family: arial;
+    background: white;
+    font-size: 16px;
+}
+.icon{
+    color: white;
+}
+
+.tag-boxes .panel-red{
+    border: 1px solid #d9534f;
+    background: #d9534f;
+    
+}
+
+.tag-boxes .panel-red a{
+    color: #d9534f;
+}
+
+.tag-boxes .panel-red a:hover{
+    color: #00bfff;
+}
+
+.tag-boxes .panel-red .panel-footer{
+    color: #d9534f;
+    font-family: arial;
+    background:white;
+    font-size: 16px;
+}
+
+.tag-boxes .panel-yellow{
+    border: 1px solid #f0ad4e;
+    background: #f0ad4e;
+    
+}
+
+.tag-boxes .panel-yellow a{
+    color: #f0ad4e;
+}
+
+.tag-boxes .panel-yellow a:hover{
+    color: #00bfff;
+}
+
+.tag-boxes .panel-yellow .panel-footer{
+    color: #f0ad4e;
+    font-family: arial;
+    background:white;
+    font-size: 16px;
+}
+
+
+.tag-boxes .panel-green{
+    border: 1px solid #5cb85c;
+    background: #5cb85c;
+    
+}
+
+.tag-boxes .panel-green a{
+    color: #5cb85c;
+}
+
+.tag-boxes .panel-green a:hover{
+    color: #00bfff;
+}
+
+.tag-boxes .panel-green .panel-footer{
+    color: #5cb85c;
+    font-family: arial;
+    background:white;
+    font-size: 16px;
+}
+
+.body-section{
+    padding-bottom: 60px;
+}
+
+#wrapper{
+    min-height: 100%;
+    position: relative;
+    
+}
+
+
+footer{
+    background: skyblue;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer  a{
+    color: white;
+    font-weight: bold;
+}
+
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+
